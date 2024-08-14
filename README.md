@@ -6,6 +6,5 @@ The dataset, sourced from Indira Gandhi Medical College and Hospital, comprised 
 Training and testing were conducted using a 7:3 split, further divided into test and validation subsets in a 7:3 ratio.
 The model underwent iterative training using a k-fold cross-validation approach for 10 iterations, ensuring comprehensive training and reliable performance evaluation. 
 K-fold cross-validation mitigates overfitting, provides robust performance estimates, and enhances confidence in model generalizability.
-![image](https://github.com/user-attachments/assets/f50fcf4e-7966-47da-bce1-acf2e95beb21)
 
-![image](https://github.com/user-attachments/assets/14edd490-39c9-4002-8a4c-ba984e7b442a)
+
